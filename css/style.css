@@ -737,12 +737,12 @@ ul.navbar-nav > li.active > a {
 
 /*-- Logo --*/
 .logo img {
-  width: 400px;
-  height: 500px;
+  width: 250px;
+  height: 50px;
 }
 
 .header-two .logo img {
-  height: 80px;
+  height: 50px;
 }
 
 /* header right */
