@@ -1248,6 +1248,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 @media (max-width: 991px) {
   .banner-carousel .banner-carousel-item {
     height: 550px;
+    filter: brightness(40%);
   }
 }
 
@@ -1266,7 +1267,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .slide-title-box {
   font-size: 16px;
   line-height: 39px;
-  background: #bb8703;
+  background: #fab402;
   color: #fff;
   display: inline-block;
   padding: 0 15px;
@@ -1277,7 +1278,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   font-size: 30px;
   line-height: 36px;
   font-weight: 300;
-  color: #000;
+  color: #fff;
   margin: 20px 0 10px;
 }
 
