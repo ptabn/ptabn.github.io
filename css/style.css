@@ -286,8 +286,8 @@ a:focus {
 }
 
 .section-sub-title {
-  font-weight: 900;
-  font-size: 36px;
+  font-weight: 500;
+  font-size: 26px;
   line-height: 46px;
   margin: 0 0 60px;
   color: #212121;
@@ -737,8 +737,8 @@ ul.navbar-nav > li.active > a {
 
 /*-- Logo --*/
 .logo img {
-  width: 250px;
-  height: 50px;
+  width: 90%;
+  /*height: 50px;*/
 }
 
 .header-two .logo img {
@@ -830,8 +830,8 @@ ul.top-info-box li .info-box .info-box-title {
 ul.top-info-box li .info-box .info-box-subtitle {
   margin: 0;
   line-height: normal;
-  font-size: 13px;
-  font-weight: 700;
+  font-size: 12px;
+  font-weight: 400;
   color: #111;
 }
 
