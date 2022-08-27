@@ -4,16 +4,19 @@
 	Typography
 -------------------------------------------------------------------------------*/
 
-@import url("https://fonts.googleapis.com/css?family=Caveat+Brush|Play");
 @import url("https://fonts.googleapis.com/css?family=Fredoka+One");
 @import url("https://fonts.googleapis.com/css?family=Convergence");
 body {
   font-family: "Montserrat", sans-serif;
+
+  font-size: 1.7rem;
+  font-style: normal;
+  font-weight: normal;
 }
 p {
   font-size: 14px;
   line-height: 22.4px;
-  color: #ffffff;
+  color: #1a1919;
 }
 h1,
 .type-wrap {
