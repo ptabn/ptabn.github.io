@@ -7,6 +7,14 @@ jQuery(document).ready(function () {
     { duration: 3000, fade: 750 }
   );
 
+  /* 1. Proloder */
+  $(window).on("load", function () {
+    $("#preloader-active").delay(450).fadeOut("slow");
+    $("body").delay(450).css({
+      overflow: "visible",
+    });
+  });
+
   $("#typed").typed({
     // strings: ["Typed.js is a <strong>jQuery</strong> plugin.", "It <em>types</em> out sentences.", "And then deletes them.", "Try it out!"],
     stringsElement: $("#typed-strings"),
