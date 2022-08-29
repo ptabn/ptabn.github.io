@@ -1774,6 +1774,11 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   float: left;
   color: #ff0000;
 }
+.ts-service-box .ts-service-icon_wa i {
+  font-size: 36px;
+  float: left;
+  color: #08c918e3;
+}
 
 .ts-service-box .ts-service-box-content {
   margin-left: 62px;
@@ -1875,6 +1880,19 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   font-size: 24px;
   color: #fff;
   background: #ff0000;
+  text-align: center;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  margin-bottom: 20px;
+  position: relative;
+  float: none;
+}
+.ts-service-icon_wa.icon-round_wa i {
+  font-size: 24px;
+  color: #fff;
+  background: #03b120;
   text-align: center;
   border-radius: 100%;
   width: 60px;
